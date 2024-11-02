@@ -27,7 +27,7 @@ This can be used by employers/recruiters to get a slight overview of the person 
 ## Links
 
 No walkthrough videos were needed for this project for it is mainly frontend.
-deployed website link: https://unique-dev-portfolio.netlify.app/
+deployed website link: https://candidate-search-muej.onrender.com
 
 ## Credits
 
